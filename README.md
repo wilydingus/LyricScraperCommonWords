@@ -6,3 +6,5 @@ I utilized the genius API to help provide an artist object that could give me a 
 Just go to https://docs.genius.com/ take the string to the right of  "Authentication: Bearer" and sub that in where "KEY" is in my python code.
 
 Then to run the main program just fill in the artist_common_words(artist_name, song_count, word_count) demo function with your preffered artist, the amount of songs you want it to check, and how many of the common words do you want to see
+
+cred to https://medium.com/analytics-vidhya/how-to-scrape-song-lyrics-a-gentle-python-tutorial-5b1d4ab351d2 for telling me how to use the Genius API for getting an artist's songs
